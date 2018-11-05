@@ -4,7 +4,7 @@
 * The colors of the object is going to be picked up by the camera which will be the PixyCam.
 * The robot consists the HC-06 bluetooth IC, Arduino Uno microcontroller, and the L293D H-Bridge.
 * Use of this was to do a drive test using the app called Arduino RC to control the remotely control the robot and further test the wheels and motors.
-* the color object follower is a significant project which in real life, it could be in use as a fundamental for kids today in learning their colors.
+* The color object follower is a significant project which in real life, it could be in use as a fundamental for kids today in learning their colors.
 
 PixyCam
 * Has the ability to select a certain color and then detect around its environment any object that has the same color.
@@ -13,9 +13,10 @@ PixyCam
 
 L293D H-bridge 
 * The L293D H-bridge is important, because it drives the DC motors using a bit of programming from the Arduino IDE.
-* Cnfigure the basic movements of the robot (forward, backward, turning left, and turning right).
+* Configure the basic movements of the robot (forward, backward, turning left, and turning right).
 
-
+HC-06 Bluetooth IC 
+* Transmit and receive data back and forth between the Arduino Uno and smart phone.
 
 
 
